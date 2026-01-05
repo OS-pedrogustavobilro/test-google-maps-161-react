@@ -1,0 +1,7 @@
+{
+  "name": "test-google-maps-161",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
